@@ -1,0 +1,6 @@
+biology 0
+computer science 1
+financial economics 2
+industrial engineering 3
+physics 4
+social science 5
